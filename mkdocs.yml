@@ -2,6 +2,8 @@ site_name: Shravan — Software Prototyper
 theme:
   name: dracula
   logo: logo.jpg
+site_dir: docs   # output folder for the built site
+docs_dir: site   # input folder for markdown files and assets (default is 'docs')
 
 nav:
   - Home: index.md

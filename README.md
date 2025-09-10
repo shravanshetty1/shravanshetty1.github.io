@@ -1,0 +1,2 @@
+# Build
+mkdocs build
